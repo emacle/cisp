@@ -1,0 +1,30 @@
+* 常见
+保密C
+篡改->完整性I
+~破坏（丢包）->可用性A~
+
+等保
+D1，C1，C2 （DAC自主访问控制）
+B1，B2，B3，A1 （MAC强制访问控制）
+
+PDR (protection detection response) 静态
+PPDR  + policy 动态
+
+网络安全法2016.11.7 发布
+YD 邮电 / GA 公安
+
+同步规划，同步建设，同步实施
+
+ACL（访问控制列表） 客体
+CL（访问能力表） 主体
+
+上写下读
+
+RBAC0
+RBAC1，基于0，加入等级及角色
+RBAC2，基于0，加入等约束条件
+RBAC3，结合1，2.
+
+IPSEC AH：验证；ESP：加密
+
+SDL软件开发模型：5+2
